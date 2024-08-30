@@ -1,4 +1,4 @@
 # demo1
 This is my first repo created during learning.
 <br>
-Author - Suraj Prakash
+Author - Suraj Prakash and John
